@@ -7,6 +7,12 @@ public class Hola {
 		
 		System.out.println("Hola mundo");
 		System.out.println("Estoy probando mi rama");
+<<<<<<< HEAD
+=======
+
+		System.out.println("RamaDeYabila");
+
+>>>>>>> ramaDeYabila
 	}
 
 }
